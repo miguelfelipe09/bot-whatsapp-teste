@@ -90,7 +90,6 @@ npm start
 ### 🛠️ Scripts
 
 - `npm start` — inicia o bot e exibe o QR Code.
-- `npm test` — (placeholder) não há testes configurados ainda.
 
 ---
 
