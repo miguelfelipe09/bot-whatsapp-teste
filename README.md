@@ -45,8 +45,8 @@
 #### 🔹 Clonar o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
-cd SEU-REPO
+git clone https://github.com/miguelfelipe09/bot-whatsapp-teste.git
+cd bot-whatsapp-teste
 ```
 
 #### 📌 Pré-requisitos
